@@ -38,3 +38,6 @@ next-env.d.ts
 # storybook
 /src/stories/examples
 /src/stories/Introduction.stories.mdx
+
+# tailwind
+/src/dist
