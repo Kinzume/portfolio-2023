@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 
-import Intro from "./Intro";
+import Intro from "../components/Intro/Intro";
 
 export default {
   title: "Portfolio/Intro",
