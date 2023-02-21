@@ -38,7 +38,7 @@ export default function Page() {
               siteHref="https://kinzume.github.io/user-dashboard/"
               repoHref="https://github.com/Kinzume/user-dashboard"
             />
-            <div className="mb-2 flex h-[315px] gap-x-2">
+            <div className="mb-2 flex gap-x-2">
               <ImageWithCaption
                 src={dashboardtablet}
                 alt="A screenshot of the user dashboard on tablet dimensions."

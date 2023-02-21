@@ -40,7 +40,7 @@ export default function Page() {
               siteHref="https://kinzume.github.io/ffxiv-item-search-tool/"
               repoHref="https://github.com/Kinzume/ffxiv-item-search-tool"
             />
-            <div className="mb-2 flex h-[315px] gap-x-2">
+            <div className="mb-2 flex gap-x-2">
               <ImageWithCaption
                 src={searchtablet}
                 alt="A screenshot of the item search tool on tablet dimensions."
