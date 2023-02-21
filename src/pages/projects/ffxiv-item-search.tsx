@@ -26,14 +26,14 @@ export default function Page() {
   return (
     <>
       <PageHead
-        title="Final Fantasy XIV Item Search Tool"
+        title="Final Fantasy XIV Item Search"
         description="A closer look at the item search tool"
       />
       <Main>
         <Article>
           <section>
             <H1AndDate
-              h1="Final Fantasy XIV Item Search Tool"
+              h1="Final Fantasy XIV Item Search"
               date="Dec 2022"
             />
             <CallToActions

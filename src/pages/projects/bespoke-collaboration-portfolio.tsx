@@ -31,14 +31,14 @@ export default function Page() {
   return (
     <>
       <PageHead
-        title="Hamworks"
-        description="A closer look at Hamworks"
+        title="Bespoke Collaboration Portfolio"
+        description="A closer look at the bespoke collaboration portfolio called Hamworks"
       />
       <Main>
         <Article>
           <section>
             <H1AndDate
-              h1="Hamworks"
+              h1="Bespoke Collaboration Portfolio"
               date="Nov 2022"
             />
             <CallToActions
