@@ -1,3 +1,21 @@
+import Head from "next/head";
+import Intro from "../components/Intro/Intro";
+import { Featured } from "../components/Projects/Projects";
+
 export default function Home() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return (
+    <>
+      <Head>
+        <title>Leander Abaya | Web Developer Portfolio</title>
+        <meta
+          name="description"
+          content="Leander Abaya - Web Developer Portfolio"
+        />
+      </Head>
+      <main className="space-y-12 bg-background px-2 md:px-0">
+        <Intro />
+        <Featured />
+      </main>
+    </>
+  );
 }

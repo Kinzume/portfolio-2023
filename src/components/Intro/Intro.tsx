@@ -5,13 +5,16 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
 export default function Intro() {
   return (
-    <section className="mx-auto max-w-md">
+    <section className="mx-auto max-w-xl pt-6">
+      <h1 className="sr-only">Introduction</h1>
       <div className="mb-4 select-none space-y-6">
-        <h1 className="sr-only">Introduction</h1>
-        <p className="text-xl font-bold text-typography">
-          {"Hi, I'm Leander! I'm a self-taught web developer based in London."}
+        <p className="text-3xl font-bold text-typography lg:text-4xl">
+          {"Hi, I'm Leander!"}
         </p>
-        <p className="font-medium text-typography">
+        <p className="text-2xl font-bold text-typography lg:text-3xl">
+          {"I'm a self-taught web developer based in London."}
+        </p>
+        <p className="text-lg font-medium text-typography lg:text-xl">
           {
             "I'm currently looking for my first developer job. You can find some of my work below or contact me on LinkedIn."
           }
