@@ -37,7 +37,7 @@ export default function Page() {
               siteHref="https://portfolio-nextjs-kinzume.vercel.app/"
               repoHref="https://github.com/Kinzume/portfolio-nextjs"
             />
-            <div className="mb-2 flex h-[315px] gap-x-2">
+            <div className="mb-2 flex gap-x-2">
               <ImageWithCaption
                 src={homemobile}
                 alt="A screenshot of the portfolio on mobile dimensions."
