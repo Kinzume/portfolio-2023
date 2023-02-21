@@ -23,14 +23,14 @@ export default function Page() {
   return (
     <>
       <PageHead
-        title="Portfolio 2022/23"
-        description="A closer look at Leander's portfolio for 2022/23"
+        title="Technical Portfolio"
+        description="A closer look at Leander's technical portfolio"
       />
       <Main>
         <Article>
           <section>
             <H1AndDate
-              h1="2022/23 Portfolio"
+              h1="Technical Portfolio"
               date="Feb 2022 – Feb 2023"
             />
             <CallToActions
