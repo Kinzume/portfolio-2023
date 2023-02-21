@@ -43,6 +43,7 @@
     "@types/react-slick": "^0.23.10",
     "autoprefixer": "^10.4.13",
     "babel-loader": "^8.3.0",
+    "chromatic": "^6.17.0",
     "eslint-plugin-storybook": "^0.6.10",
     "postcss": "^8.4.21",
     "prettier": "^2.8.4",
