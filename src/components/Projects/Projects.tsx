@@ -94,7 +94,7 @@ const FEATURED = {
       title: "Technical Portfolio",
       skills: ["React", "Next.js", "Tailwind"],
       description:
-        "A technical portfolio detailing my continuous personal development and showcasing all completed projects to date",
+        "An earlier version of my portfolio showcasing projects that I completed at the start of my career",
       date: "Feb 2022 - Feb 2023",
       slug: "technical-portfolio",
     },
