@@ -15,9 +15,7 @@ export default function Intro() {
           {"I'm a self-taught web developer based in London."}
         </p>
         <p className="text-lg font-medium text-typography lg:text-xl">
-          {
-            "I'm currently looking for my first developer job. You can find some of my work below or contact me on LinkedIn."
-          }
+          {"You can find some of my work below or contact me on LinkedIn."}
         </p>
       </div>
       <Contact />
